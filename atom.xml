@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Imagination without wires]]></title>
   <link href="http://gjherbiet.github.com/atom.xml" rel="self"/>
   <link href="http://gjherbiet.github.com/"/>
-  <updated>2011-10-05T21:04:31+02:00</updated>
+  <updated>2011-10-06T14:11:26+02:00</updated>
   <id>http://gjherbiet.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Guillaume-Jean Herbiet]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
