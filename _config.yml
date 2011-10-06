@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://gjherbiet.github.com
-title: My Octopress Blog
+title: Imagination without wires
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+author: Guillaume-Jean Herbiet
+simple_search: https://duckduckgo.com/
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
