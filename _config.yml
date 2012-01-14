@@ -12,7 +12,7 @@ simple_search: https://duckduckgo.com/
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: postmaster@herbiet.net
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -49,17 +49,17 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: gjherbiet
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: gjherbiet
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google Plus
